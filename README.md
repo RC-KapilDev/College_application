@@ -3,7 +3,7 @@
 This is the flutter project of the DGVC College App. The DGVC College App is the bridge between student and college. It is the one stop solution for all the queries beyond and above.
 
 ## Getting Started
-<img scr='https://github.com/RC-KapilDev/College_application/assets/127416368/3e1051ec-3d76-456c-9e7a-43e8f13eb32d'>
+<img scr='assets/'>
 
 
 
