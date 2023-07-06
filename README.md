@@ -7,17 +7,17 @@ This is the flutter project of the DGVC College App. The DGVC College App is the
 <table>
     <thead>
       <tr>
-        <th><img src='assets\readme\Screenshot_2023-07-06-18-48-30-661_com.kapildev.college_app.jpg' width=300 height=550>
+        <th><img src='assets\readme\page1.jpg' width=300 height=550>
           </th>
-        <th><img src='assets\readme\Screenshot_2023-07-06-18-48-34-181_com.kapildev.college_app.jpg' width =300 height=550></th>
-        <th><img src='assets\readme\Screenshot_2023-07-06-18-48-40-988_com.kapildev.college_app.jpg' width =300 height=550></th>
+        <th><img src='assets\readme\page2.jpg' width =300 height=550></th>
+        <th><img src='assets\readme\page3.jpg' width =300 height=550></th>
       </tr>
     </thead>
 
 
-![](assets\readme\Screenshot_2023-07-06-18-48-40-988_com.kapildev.college_app.jpg)
-![](assets\readme\Screenshot_2023-07-06-18-48-34-181_com.kapildev.college_app.jpg)
-![](assets\readme\Screenshot_2023-07-06-18-48-30-661_com.kapildev.college_app.jpg)
+![](assets\readme\page1.jpg)
+![](assets\readme\page2.jpg)
+![](assets\readme\page3.jpg)
 
 
 
