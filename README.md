@@ -3,9 +3,9 @@
 This is the flutter project of the DGVC College App. The DGVC College App is the bridge between student and college. It is the one stop solution for all the queries beyond and above.
 
 ## Getting Started
-<img scr='C:\college_app\assets\readme\Screenshot_2023-07-06-18-48-40-988_com.kapildev.college_app.jpg'>
+<img scr='assets\readme\Screenshot_2023-07-06-18-48-40-988_com.kapildev.college_app.jpg'>
 
-![](C:\college_app\assets\readme\Screenshot_2023-07-06-18-48-40-988_com.kapildev.college_app.jpg)
+![](assets\readme\Screenshot_2023-07-06-18-48-40-988_com.kapildev.college_app.jpg)
 
 
 
