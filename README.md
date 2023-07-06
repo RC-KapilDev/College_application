@@ -1,6 +1,6 @@
-# college_app
+# college_app For DGVC College
 
-A new Flutter project.
+This is the flutter project of the DGVC College App. The SVU College App is the bridge between student and college. It is the one stop solution for all the queries beyond and above.
 
 ## Getting Started
 
