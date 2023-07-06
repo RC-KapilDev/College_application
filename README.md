@@ -5,6 +5,12 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+install these dependencies from dart packages (search in google):
+  cupertino_icons: ^1.0.2
+  percent_indicator: ^4.0.1
+  photo_view: ^0.14.0
+  cloud_firestore: ^4.8.1(optional)
+  provider: ^6.0.5
 
 A few resources to get you started if this is your first Flutter project:
 
