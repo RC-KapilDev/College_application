@@ -4,7 +4,7 @@ This is the flutter project of the DGVC College App. The DGVC College App is the
 
 ## Getting Started
 
- ![github-small](https://github.com/RC-KapilDev/College_application/assets/127416368/ae151935-5b15-4b70-894f-c52a88ae4da8)
+ ![github-small](https://github.com/RC-KapilDev/College_application/assets/127416368/ae151935-5b15-4b70-894f-c52a88ae4da8 100x20)
 
 
 This project is a starting point for a Flutter application.
