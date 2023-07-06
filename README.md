@@ -3,9 +3,21 @@
 This is the flutter project of the DGVC College App. The DGVC College App is the bridge between student and college. It is the one stop solution for all the queries beyond and above.
 
 ## Getting Started
-<img scr='assets\readme\Screenshot_2023-07-06-18-48-40-988_com.kapildev.college_app.jpg'>
+
+<table>
+    <thead>
+      <tr>
+        <th><img src='assets\readme\Screenshot_2023-07-06-18-48-30-661_com.kapildev.college_app.jpg' width=300 height=550>
+          </th>
+        <th><img src='assets\readme\Screenshot_2023-07-06-18-48-34-181_com.kapildev.college_app.jpg' width =300 height=550></th>
+        <th><img src='assets\readme\Screenshot_2023-07-06-18-48-40-988_com.kapildev.college_app.jpg' width =300 height=550></th>
+      </tr>
+    </thead>
+
 
 ![](assets\readme\Screenshot_2023-07-06-18-48-40-988_com.kapildev.college_app.jpg)
+![](assets\readme\Screenshot_2023-07-06-18-48-34-181_com.kapildev.college_app.jpg)
+![](assets\readme\Screenshot_2023-07-06-18-48-30-661_com.kapildev.college_app.jpg)
 
 
 
