@@ -1,4 +1,4 @@
-# collegeMate For DGVC College
+# CollegeMate For DGVC College
 
 Project Description: CollegeMate - Empowering Students for Success
 
