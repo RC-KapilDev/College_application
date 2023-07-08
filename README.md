@@ -20,25 +20,33 @@ CollegeMate aims to empower students to take ownership of their academic journey
 
 Join us on this transformative journey with CollegeMate, where students can efficiently manage their college life and thrive academically, all in one place.
 
+<!DOCTYPE html>
+<html>
+<head>
+ </head>
+<body>
+  <table>
+    <tr>
+      <th></th>
+      <th></th></th>
+  </tr>
+    <tr>
+      <td data-label="Column 1"><img src='assets\readme\page1.jpg'></td>
+      <td data-label="Column 2"><img src='assets\readme\page2.jpg' ></td>
+    <td data-label="Column 2"><img src='assets\readme\page3.jpg'></td>
+    </tr>
+  </table>
+</body>
+</html>
+
+
+
+
+![](redmeimg\page1.jpg)
+![](redmeimg\page2.jpg)
+![](redmeimg\page3.jpg)
+
 ## Getting Started
-
-<table>
-    <thead>
-      <tr>
-        <th><img src='assets\readme\page1.jpg' width=300 height=550>
-          </th>
-        <th><img src='assets\readme\page2.jpg' width =300 height=550></th>
-        <th><img src='assets\readme\page3.jpg' width =300 height=550></th>
-      </tr>
-    </thead>
-
-
-![](assets\readme\page1.jpg)
-![](assets\readme\page2.jpg)
-![](assets\readme\page3.jpg)
-
-
-
 
 This project is a starting point for a Flutter application.
 install these dependencies from dart packages (search in google):
